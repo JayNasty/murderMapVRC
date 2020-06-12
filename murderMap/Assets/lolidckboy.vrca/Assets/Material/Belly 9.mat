@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Belly 9
+  m_Shader: {fileID: 4800000, guid: 1754ca15391419d4f8ae3bb0453b0ede, type: 3}
+  m_ShaderKeywords: _AUTOHUE_ON _COLOR_ON _STABLEBLUROFFSET_ON _STABLEDISTORTIONOFFSET_ON
+    _STABLEGIRLSCAMOFFSET_ON _STABLENEONOFFSET_ON _STABLERGBBLUEOFFSET_ON _STABLERGBBLUROFFSET_ON
+    _STABLERGBGREENOFFSET_ON _STABLERGBREDOFFSET_ON _STABLESHAKEOFFSET_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: 601e438515eda374bb977a75e213b0e9, type: 3}
+        m_Scale: {x: 0, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diffuse:
+        m_Texture: {fileID: 2800000, guid: b5a690fa584591b4e88a7bbfe43e89f8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DistortionNormalMap:
+        m_Texture: {fileID: 2800000, guid: e9742c575b8f4644fb9379e7347ff62e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _HighlightFunc:
+        m_Texture: {fileID: 2800000, guid: b5a690fa584591b4e88a7bbfe43e89f8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MR:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MRn:
+        m_Texture: {fileID: 2800000, guid: 13d106a1912529c4b8440e65655904dd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCap:
+        m_Texture: {fileID: 2800000, guid: 8c6b7a951b802b94a9dd1d6b8127ed93, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Metmap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RC:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RCn:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShakeNormalMap:
+        m_Texture: {fileID: 2800000, guid: e9742c575b8f4644fb9379e7347ff62e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SkinFunc:
+        m_Texture: {fileID: 2800000, guid: b5a690fa584591b4e88a7bbfe43e89f8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _8bitOffset: 1
+    - _8bittextureemulating: 0
+    - _AutoHUE: 1
+    - _BlackRim: 0
+    - _BlueXOffset: 0
+    - _BlueYOffset: 0
+    - _Blur: 0
+    - _BlurAuto: 0
+    - _BlurLerp: 1
+    - _BlurOffset: 0
+    - _BlurSpeed: 5
+    - _Brightness: 0.3
+    - _BumpScale: 1
+    - _CAOffset: 0.0015
+    - _CASpeed: 15
+    - _ChromaticAberration: 0
+    - _Color: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DesaturateOffset: 0.3
+    - _DesktopEffectsMultiply: 1
+    - _DetailNormalMapScale: 1
+    - _DistortionOffset: 0
+    - _DistortionSpeed: 0
+    - _DstBlend: 0
+    - _Float0: 1
+    - _FuncEffect: 1
+    - _GammaCorrection: 0.77
+    - _GirlscamOffset: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GrayscaleOffset: -3.2
+    - _GreenXOffset: 0
+    - _GreenYOffset: 0
+    - _HUE: 1
+    - _HUEOffset: 0
+    - _HUESpeed: 0.3
+    - _I: 0.5
+    - _In: 0.5
+    - _LightDesaturate: 1
+    - _MaxDistance: 5
+    - _Metal: 1.96
+    - _Metallic: 1
+    - _MinDistance: 4
+    - _Mode: 0
+    - _Multiplyer: 0.25
+    - _Negative: 0
+    - _NegativeOffset: 1
+    - _Neon: 0.74
+    - _NeonNormalize: 1
+    - _NeonOffset: 0
+    - _OcclusionStrength: 1
+    - _Outline: 0
+    - _OutlineMode: 0
+    - _Parallax: 0.02
+    - _Pixelate: 0.0001
+    - _Power: 0.75
+    - _RCns: 0
+    - _RGB: 0
+    - _RGBBlur: 0
+    - _RGBBlurAuto: 0
+    - _RGBBlurLerp: 1
+    - _RGBBlurOffset: 0.1
+    - _RGBBlurOffset2: 2
+    - _RGBBlurSpeed: 5
+    - _RedXOffset: 0
+    - _RedYOffset: 0
+    - _Screenrotate: 0
+    - _Shadow: 0.4
+    - _ShakeOffset: 0
+    - _ShakeSpeed: 0
+    - _Skake3018OffsetX: 0
+    - _Skake3018OffsetY: 0
+    - _Skake3018SpeedX: 0
+    - _Skake3018SpeedY: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _Speed: 0.1
+    - _SrcBlend: 1
+    - _StableBlurOffset: 1
+    - _StableDistortionOffset: 1
+    - _StableGirlscamOffset: 1
+    - _StableNeonOffset: 1
+    - _StableRGBBlueOffset: 1
+    - _StableRGBBlurOffset: 1
+    - _StableRGBGreenOffset: 1
+    - _StableRGBRedOffset: 1
+    - _StableShakeOffset: 1
+    - _UVSec: 0
+    - _VREffectsMultiply: 0.5
+    - _Xflipscreen: 0
+    - _Xrotatescreen: 0
+    - _Yflipscreen: 0
+    - _Yrotatescreen: 0
+    - _ZWrite: 1
+    - _ZoomDegree: 0.75
+    - _ZoomDirection: 1
+    - _ZoomOffset: 0
+    - __dirty: 1
+    - _gsl: 0
+    - _highlightint: 1.31
+    - _metp: 0.85
+    - _outline_tint: 0.5
+    - _outline_width: 0.2
+    - _us: 0
+    m_Colors:
+    - _Color: {r: 0.32423934, g: 0.6764706, b: 0.6143122, a: 1}
+    - _Cubemaptint: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GrayscaleLerp: {r: 0, g: 0, b: 0, a: 1}
+    - _MRt: {r: 1, g: 1, b: 1, a: 1}
+    - _MatCaptint: {r: 1, g: 1, b: 1, a: 1}
+    - _Mettint: {r: 1, g: 1, b: 1, a: 1}
+    - _NeonColor: {r: 0, g: 0, b: 0, a: 1}
+    - _NormalizeColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SkinSubsurf: {r: 0, g: 0, b: 0, a: 1}
+    - _color: {r: 0.2205882, g: 0.2205882, b: 0.2205882, a: 1}
+    - _outline_color: {r: 0.5, g: 0.5, b: 0.5, a: 1}

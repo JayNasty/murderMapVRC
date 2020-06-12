@@ -1,0 +1,538 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: New Material 4
+  m_Shader: {fileID: 4800000, guid: 1a184c212bd0ce242bb884b1f2c7cd8c, type: 3}
+  m_ShaderKeywords: _ALLOWBGCOLORS_ON _ALLOWBGX_ON _ALLOWFADINGFALLOFF_ON _ALLOWSCALARFALLOFF_ON _TOGGLEBLOCKYRGB_ON _TOGGLEBLOOM_ON _TOGGLECOLORSPLITSTAYSIDES_ON _TOGGLEEDGEDISROTATE_ON _TOGGLEMULTIFALLOFF_ON _TOGGLERAMPONEANIMATE_ON _TOGGLERAMPRED_ON _TOGGLESEPIA_ON _TOGGLESIMPLEBLUR_ON _TOGGLEUSEHSVINSTEAD_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BlockGlitchMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlitchRedMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OverlaySpritesheet:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OverlayTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OverlayTextureThree:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OverlayTextureTwo:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RampMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RedMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ScanlineMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ScreenpullMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StaticGlitchMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VROverlayTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _emptyTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AllowBGColors: 1
+    - _AllowBGX: 1
+    - _AllowBGY: 0
+    - _AllowFadingFalloff: 1
+    - _AllowRandomnessIncrease: 0
+    - _AllowScalarFalloff: 1
+    - _AllowSmartFalloff: 0
+    - _AmountValue: 0.35
+    - _BDepthX: 25
+    - _BDepthY: 111
+    - _BGBrokenColorIntensity: 0.1
+    - _BGOverlayIntensity: 0.01
+    - _BGRandomnessInc: 0
+    - _BackgroundFilterIntensity: 0.5
+    - _BlockyGlitchSpeed: 1.2
+    - _BlockyGlitchStrength: 0.5
+    - _BlockyRGBPush: 0.3
+    - _BlockyRGBSpeed: 3.7
+    - _BloomGlow: 0.1
+    - _BlueZoom: 1.319
+    - _BlurAutoanimateSpeed: 0
+    - _BlurNondistanceOffset: 2
+    - _BlurOffset: 0
+    - _BumpScale: 1
+    - _CSAutoRotate: 0
+    - _CSBlue: 0
+    - _CSDirection: 0
+    - _CSGreen: 0
+    - _CSLX: 0
+    - _CSLY: 0
+    - _CSMX: 0
+    - _CSMY: 0
+    - _CSRX: 0
+    - _CSRY: 0
+    - _CSRed: 0
+    - _CSRotateDirection: 1
+    - _CSRotateSpeed: 0
+    - _CSRotateSpeedCosXR: 0
+    - _CSRotateSpeedSinXR: 0
+    - _CSRotateSpeedSinYR: 0
+    - _CSUseAdvanced: 0
+    - _CircShakeSpeed: 0
+    - _CircShakeStr: 500
+    - _ColSpONEopacity: 1
+    - _ColSpTHREEopacity: 1
+    - _ColSpTWOopacity: 1
+    - _ColorHue: 0
+    - _ColorSaturation: 0
+    - _ColorSplitAmount: 0
+    - _ColorSplitSpeed: 0
+    - _ColorValue: 0
+    - _CustomColorInfo: 0
+    - _CustomVisbiltiyInfo: 0
+    - _Cutoff: 0.5
+    - _DarknessStrength: 0
+    - _DeepfryBrightness: 1
+    - _DeepfryValue: 0
+    - _DetailNormalMapScale: 1
+    - _DirectionBlue: 1
+    - _DirectionGreen: 1
+    - _DirectionRed: -1
+    - _DistortAmount: 0
+    - _DistortOffset: 0
+    - _DistortRedSpeed: 0
+    - _DistortTileAnim: 0
+    - _DistortXAnim: 0
+    - _DistortYAnim: 0
+    - _DivideL: 0
+    - _DivideR: 0
+    - _DizzyAmountValue: 25
+    - _DizzyDirection: -1
+    - _DizzyMode: 1
+    - _DizzyRotationSpeed: 20
+    - _DizzyScuffedWarning: 0
+    - _DropletIntensity: 1
+    - _DropletTolerance: 0.01
+    - _DstBlend: 0
+    - _DuotoneHardEdges: 0
+    - _DuotoneHardness: 0.01
+    - _DuotoneThreshold: 0.25
+    - _EDGlow: 1
+    - _EDIntensity: 1
+    - _EDTolerance: 0.2
+    - _EDTrans: 1
+    - _EDXOffset: 0
+    - _EDYOffset: 0
+    - _EdgeDisRotSpeed: 0.93
+    - _EdgeDisRotStr: 4.18
+    - _EdgeDisX: 0.1
+    - _EdgeDisY: 0.1
+    - _EdgyMulti: 0
+    - _EdgyOffset: 0.005
+    - _EdgyOffsetTwo: -0.005
+    - _ExtraOffset: 0.041
+    - _FPFade: 0.4
+    - _FPZoom: 1
+    - _FalloffRange: 100
+    - _FilterIntensity: 1
+    - _FilterMaxB: 0.1
+    - _FilterMaxG: 0.1
+    - _FilterMaxR: 0.1
+    - _FilterMinB: 0.1
+    - _FilterMinG: 0.1
+    - _FilterMinR: 0.1
+    - _FilterTolerance: 0.1
+    - _FisheyeSize: 0.8
+    - _FourDropletIntensity: 1
+    - _FourDropletTolerance: 0.01
+    - _GammaBlue: 0
+    - _GammaGreen: 0
+    - _GammaRed: 0
+    - _GifBackgroundTolerance: 0.1
+    - _GifTiling: -0.5
+    - _GifTransparency: 1
+    - _GifXAdjust: 0.75
+    - _GifXShift: 0
+    - _GifYAdjust: 0.75
+    - _GifYShift: 0
+    - _GlitchRGB: 0
+    - _GlitchRGBSpeed: 0
+    - _GlitchRGBStrength: 0
+    - _GlitchRedDistort: 0
+    - _GlitchSideFactor: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GreenZoom: 1.187
+    - _HSVRainbowHue: 0.1
+    - _HSVRainbowLight: 1
+    - _HSVRainbowSat: 1
+    - _HSVRainbowTime: 0.8
+    - _HideBlueTrans: 1
+    - _HideGreenTrans: 1
+    - _HideRedTrans: 1
+    - _HorizontalBlurAnimateSpeed: 0
+    - _HorizontalBlurOffset: 0
+    - _InvertStrength: 1
+    - _LinocutOpacity: 1
+    - _LinocutPower: 1
+    - _Love: 100
+    - _MagnitudeShake: 0
+    - _MagnitudeZoom: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OSSColumns: 0
+    - _OSSRows: 0
+    - _OSSSpeed: 0
+    - _OcclusionStrength: 1
+    - _Offset: 0.023
+    - _OutlineActualOffset: 0.00505
+    - _OutlineModFour: 3
+    - _OutlineModOne: 1
+    - _OutlineModThree: 1
+    - _OutlineModTwo: 0.5
+    - _OutlineOffset: 0.0043
+    - _OverlayTiling: -0.5
+    - _OverlayTilingThree: -0.5
+    - _OverlayTilingTwo: -0.5
+    - _OverlayTrans: 0
+    - _OverlayTransThree: 0
+    - _OverlayTransTwo: 0
+    - _OverlayTransX: 0
+    - _OverlayTransXThree: 0
+    - _OverlayTransXTwo: 0
+    - _OverlayTransY: 0
+    - _OverlayTransYThree: 0
+    - _OverlayTransYTwo: 0
+    - _OverlayTransparency: 1
+    - _OverlayTransparencyThree: 1
+    - _OverlayTransparencyTwo: 1
+    - _OverlayXAdjust: 0.75
+    - _OverlayXAdjustThree: 0.75
+    - _OverlayXAdjustTwo: 0.75
+    - _OverlayXShift: 0
+    - _OverlayXShiftThree: 0
+    - _OverlayXShiftTwo: 0
+    - _OverlayYAdjust: 0.75
+    - _OverlayYAdjustThree: 0.75
+    - _OverlayYAdjustTwo: 0.75
+    - _OverlayYShift: 0
+    - _OverlayYShiftThree: 0
+    - _OverlayYShiftTwo: 0
+    - _OwOStrength: 5
+    - _Parallax: 0.02
+    - _PixelateStrength: 185
+    - _PixelateStrengthY: 185
+    - _PosterizeValue: 0
+    - _ProjAdvX: 0
+    - _ProjAdvY: 0
+    - _ProjScaleX: 0
+    - _ProjScaleY: 0
+    - _ProjectionAdv: 0
+    - _ProjectionBright: 0
+    - _ProjectionCopies: 3
+    - _ProjectionDirection: 1
+    - _ProjectionFade: 1
+    - _ProjectionStrength: 30
+    - _RGBAutoanimateSpeed: 0
+    - _RGBHideOffset: 0
+    - _RGBZoomTrans: 0.4
+    - _RadialBlurCenterRadius: 0.27
+    - _RadialBlurDistance: 0.174
+    - _RadialBlurHorizontalCenter: 0.5
+    - _RadialBlurThanks: 100
+    - _RadialBlurThanksTwo: 100
+    - _RadialBlurVerticalCenter: 0.5
+    - _RampOneDepth: 1
+    - _RampOneLighting: 4
+    - _RampOneSpeed: 0
+    - _RampOneStrength: 1
+    - _RecolorBright: 1
+    - _RecolorHue: 3
+    - _RecolorSat: 2
+    - _RecolorSpeed: 1
+    - _RedTileGlitch: 1
+    - _RedXGlitch: 0.35
+    - _RedYGlitch: 10
+    - _RedZoom: 1.094
+    - _RotaterSpin: 0
+    - _RotaterValue: 0
+    - _RotationSpeedBlue: -30
+    - _RotationSpeedGreen: 30
+    - _RotationSpeedRed: 30
+    - _SSAllowHorizontalBlur: 0
+    - _SSAllowHorizontalShake: 0
+    - _SSAllowVerticalBlur: 0
+    - _SSAllowVerticalShake: 0
+    - _SSSpeed: 6.24
+    - _SSSpeedVert: 3.14
+    - _SSTransparency: 1
+    - _SSValue: 0.0226
+    - _SSValueVert: 0.0272
+    - _SaturationValue: 1
+    - _ScanlinePush: 0.1
+    - _ScanlineSize: 1
+    - _ScanlineSpeed: 0.3
+    - _ScreenFollowInfo: 0
+    - _ScreenSquishX: 0
+    - _ScreenSquishY: 0
+    - _ScreenZoomInValue: 0
+    - _ScreenZoomSpeed: 0
+    - _ScreenpullMode: 1
+    - _ScreenpullStrength: 0
+    - _ScreenpullStrengthTwo: 0
+    - _ScreensXRow: 1
+    - _ScreensYRow: 1
+    - _SepiaStrength: 1
+    - _ShakeSpeed: 0
+    - _ShakeSpeed2: 0
+    - _ShakeStrength: 0
+    - _ShakeStrength2: 0
+    - _ShockCenterX: 350
+    - _ShockCenterY: 350
+    - _ShockDis: 0
+    - _ShockMag: 0
+    - _ShockSpread: 0
+    - _SmartFalloffMax: 100
+    - _SmartFalloffMin: 99
+    - _SmoothZoomClampMaxONE: 5
+    - _SmoothZoomClampMinONE: 0.2
+    - _SmoothZoomDistanceMod: 2
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpliceBot: 0
+    - _SpliceFix: 0
+    - _SpliceLeft: 0
+    - _SpliceRight: 0
+    - _SpliceTop: 0
+    - _SpliceXLimit: 0.5
+    - _SpliceYLimit: 0.5
+    - _SrcBlend: 1
+    - _StaticGlitchPush: 0.03
+    - _StaticGlitchRange: 3
+    - _StaticIntensity: 0
+    - _StaticSpeed: 1
+    - _StrengthMod: 0
+    - _SwirlAngle: 1
+    - _SwirlCenterX: 0.5
+    - _SwirlCenterY: 0.5
+    - _SwirlPower: 0
+    - _SwirlRadius: 0.5
+    - _ThreeDropletIntensity: 1
+    - _ThreeDropletTolerance: 0.01
+    - _TileGAnimate: 0
+    - _ToggleAdvPixelate: 0
+    - _ToggleAdvancedFilter: 0
+    - _ToggleAfterimage: 0
+    - _ToggleAnimateHorizontalBlur: 0
+    - _ToggleAnimateVerticalBlur: 0
+    - _ToggleAnimatedNoise: 0
+    - _ToggleAutoanimate: 0
+    - _ToggleAutoanimateBlur: 0
+    - _ToggleAutoanimateColorSplit: 0
+    - _ToggleAutoanimateScreenZoom: 0
+    - _ToggleBlockyGlitch: 0
+    - _ToggleBlockyRGB: 1
+    - _ToggleBloom: 1
+    - _ToggleBlur: 0
+    - _ToggleBulge: 0
+    - _ToggleCSColor: 0
+    - _ToggleCircularShake: 0
+    - _ToggleColor: 0
+    - _ToggleColorSplit: 0
+    - _ToggleColorSplitStaySides: 1
+    - _ToggleColorTint: 0
+    - _ToggleColoredFilter: 0
+    - _ToggleDarken: 0
+    - _ToggleDeepfry: 0
+    - _ToggleDiagTrans: 0
+    - _ToggleDistort: 0
+    - _ToggleDistortAdvControl: 0
+    - _ToggleDistortAnimate: 0
+    - _ToggleDivide: 0
+    - _ToggleDizzyEffect: 0
+    - _ToggleDroplet: 0
+    - _ToggleDropletFourth: 0
+    - _ToggleDropletSepia: 0
+    - _ToggleDropletThree: 0
+    - _ToggleDropletTwo: 0
+    - _ToggleDuotone: 0
+    - _ToggleED: 0
+    - _ToggleEdgeDisRotate: 1
+    - _ToggleEdgeDistort: 0
+    - _ToggleEdgy: 0
+    - _ToggleFadeProjection: 0
+    - _ToggleFilter: 0
+    - _ToggleFisheye: 0
+    - _ToggleFlipZoom: 0
+    - _ToggleGammaCorrect: 0
+    - _ToggleGifOverlay: 0
+    - _ToggleGlitch: 0
+    - _ToggleGlitchChromatic: 0
+    - _ToggleGreenMovement: 0
+    - _ToggleHSVFilterDisableLock: 0
+    - _ToggleHSVRainbow: 0
+    - _ToggleHSVRainbowX: 0
+    - _ToggleHSVRainbowY: 0
+    - _ToggleHorizontalBlur: 0
+    - _ToggleInvert: 0
+    - _ToggleLinocut: 0
+    - _ToggleMagRanZoom: 0
+    - _ToggleMagnitude: 0
+    - _ToggleMultiFalloff: 1
+    - _ToggleMultiScreen: 0
+    - _ToggleNoise: 0
+    - _ToggleOutline: 0
+    - _ToggleOverlay: 0
+    - _ToggleOverlayThree: 0
+    - _ToggleOverlayTwo: 0
+    - _TogglePixelate: 0
+    - _TogglePosterize: 0
+    - _ToggleProjection: 0
+    - _ToggleRGB: 0
+    - _ToggleRGBHide: 0
+    - _ToggleRGBTint: 0
+    - _ToggleRGBZoom: 0
+    - _ToggleRadialBlur: 0
+    - _ToggleRampBlue: 0
+    - _ToggleRampEffect: 0
+    - _ToggleRampGreen: 0
+    - _ToggleRampOneAnimate: 1
+    - _ToggleRampRed: 1
+    - _ToggleRandomGlitch: 0
+    - _ToggleRandomSideGlitch: 0
+    - _ToggleRecolor: 0
+    - _ToggleRecolorAnimate: 0
+    - _ToggleRenderLookAtMe: 0
+    - _ToggleRipple: 0
+    - _ToggleRotater: 0
+    - _ToggleRotaterAnimate: 0
+    - _ToggleRotation: 0
+    - _ToggleSaturation: 0
+    - _ToggleScanline: 0
+    - _ToggleScreenFlip: 0
+    - _ToggleScreenFollow: 0
+    - _ToggleScreenSquish: 0
+    - _ToggleScreenZoom: 0
+    - _ToggleScreenpull: 0
+    - _ToggleSepia: 1
+    - _ToggleSepiaOutline: 0
+    - _ToggleShake: 0
+    - _ToggleSimpleBlur: 1
+    - _ToggleSmear: 0
+    - _ToggleSmoothAdvanced: 0
+    - _ToggleSmoothWave: 0
+    - _ToggleSmoothZoom: 0
+    - _ToggleSplice: 0
+    - _ToggleSplitShake: 0
+    - _ToggleStaticGlitch: 0
+    - _ToggleSuperSpeedyMode: 0
+    - _ToggleSwirl: 0
+    - _ToggleTransistion: 0
+    - _ToggleTransparentGif: 0
+    - _ToggleTwist: 0
+    - _ToggleUnfocusBlur: 0
+    - _ToggleUpsideDown: 0
+    - _ToggleUseHSVInstead: 1
+    - _ToggleVHS: 0
+    - _ToggleVerticalBlur: 0
+    - _ToggleVerticalRGB: 0
+    - _ToggleVignette: 0
+    - _ToggleXYShake: 1
+    - _ToggleZoom: 0
+    - _TransDL: 0.5
+    - _TransDR: 0.5
+    - _TransX: 0.3
+    - _TransY: -1
+    - _TwistOffset: 0
+    - _TwistValue: 0
+    - _TwoDropletIntensity: 1
+    - _TwoDropletTolerance: 0.01
+    - _UVSec: 0
+    - _UnfocusBlurOffset: 0
+    - _UseSepOverlay: 0
+    - _VersionNumber: 9
+    - _VerticalBlurAnimateSpeed: 0
+    - _VerticalBlurOffset: 0
+    - _VigAdv: 0
+    - _VigX: 0
+    - _VigY: 0
+    - _XGAnimate: 0.35
+    - _YGAnimate: 0
+    - _ZTest: 8
+    - _ZWrite: 1
+    - _ZoomInValue: 1
+    - _ZoomOutValue: 0
+    - _darkness: 12
+    - _offsetthree: 0.063
+    - _runPassFiveToggle: 0
+    - _runPassFourToggle: 0
+    - _runPassOneToggle: 1
+    - _runPassThreeToggle: 0
+    - _runPassTwoToggle: 0
+    - _shadowFlicker: 1
+    - _shadowMax: 2
+    - _shadowMin: 0.5
+    - _shadowStrength: 2
+    - _waveyness: 1
+    m_Colors:
+    - _BGOverlayColor: {r: 0.09999997, g: 0.09999997, b: 0.09999997, a: 1}
+    - _BackgroundFilterColor: {r: 0, g: 0, b: 0, a: 0}
+    - _BloomColorRGB: {r: 1, g: 1, b: 1, a: 1}
+    - _BlueCustomColor: {r: 34.00001, g: 72.00002, b: 153, a: 1}
+    - _CSColorTint: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorRGB: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorSplitRGBone: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorSplitRGBthree: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorSplitRGBtwo: {r: 1, g: 1, b: 1, a: 1}
+    - _DropletColOne: {r: 0, g: 0, b: 0, a: 0}
+    - _DropletColTwo: {r: 0, g: 0, b: 0, a: 0}
+    - _DuotoneColOne: {r: 0, g: 0, b: 0, a: 1}
+    - _DuotoneColTwo: {r: 1, g: 1, b: 1, a: 1}
+    - _EDColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FilterColor: {r: 0, g: 0, b: 0, a: 0}
+    - _FourDropletColOne: {r: 0, g: 0, b: 0, a: 0}
+    - _FourDropletColTwo: {r: 0, g: 0, b: 0, a: 0}
+    - _GifColorToCut: {r: 1, g: 1, b: 1, a: 1}
+    - _GreenCustomColor: {r: 11, g: 116, b: 21, a: 1}
+    - _RedCustomColor: {r: 173, g: 46.00001, b: 46.00001, a: 1}
+    - _StaticColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ThreeDropletColOne: {r: 0, g: 0, b: 0, a: 0}
+    - _ThreeDropletColTwo: {r: 0, g: 0, b: 0, a: 0}
+    - _TwoDropletColOne: {r: 0, g: 0, b: 0, a: 0}
+    - _TwoDropletColTwo: {r: 0, g: 0, b: 0, a: 0}
+    - _VHSXDisplacement: {r: 0, g: 0, b: 0, a: 0}
+    - _VHSYDisplacement: {r: 0, g: 0, b: 0, a: 0}

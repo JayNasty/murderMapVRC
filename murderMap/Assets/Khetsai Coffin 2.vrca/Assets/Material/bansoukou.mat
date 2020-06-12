@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: bansoukou
+  m_Shader: {fileID: 4800000, guid: 145fd43e20be91344aab60ddaa38e159, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AOMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AlphaMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMap:
+        m_Texture: {fileID: 8900000, guid: 5258c8ad105ed034387b7b08893f6180, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: a545c1433f874d04babcff7a22eec111, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatcapMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RimMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RimTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SSSThicknessMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SmoothnessMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularHighTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ToonRamp:
+        m_Texture: {fileID: 2800000, guid: c74518988ed3b4d4fb81afbf0991042d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AOStrength: 1
+    - _AddMatcap: 0
+    - _AdditiveOffset: 0
+    - _AdditiveSoftness: 0.005
+    - _AttenuationMultiplier: 0
+    - _BumpScale: 1
+    - _Clip: 0.5
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _Desaturation: 1
+    - _DestinationBlend: 10
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EmissionStrength: 0
+    - _EmissiveBlink_Max: 1
+    - _EmissiveBlink_Min: 1
+    - _EmissiveBlink_Velocity: 4
+    - _EmissiveScroll_Interval: 20
+    - _EmissiveScroll_Velocity: 10
+    - _EmissiveScroll_Width: 10
+    - _GlossMapScale: 1
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _IndirectContribution: 0
+    - _InvertSmoothness: 0
+    - _LineWidth: 0
+    - _MatcapStrength: 1
+    - _MaxBrightness: 1
+    - _Metallic: 0
+    - _MinBrightness: 1
+    - _Mirror: 0
+    - _Mode: 0
+    - _MultiplyMatcap: 0
+    - _OcclusionStrength: 1
+    - _OutlineCull: 1
+    - _OutlineEmission: 0
+    - _OutlineShadowStrength: 1
+    - _OutlineStencilCompareFunction: 8
+    - _OutlineStencilFailOp: 0
+    - _OutlineStencilPassOp: 0
+    - _OutlineStencilReadMaskRef: 0
+    - _OutlineStencilRef: 0
+    - _OutlineStencilWriteMaskRef: 0
+    - _OutlineStencilZFailOp: 0
+    - _Parallax: 0.02
+    - _PurelyAdditive: 0
+    - _ReplaceWithMatcap: 0
+    - _RimLightColorBias: 0
+    - _RimSharpness: 0.25
+    - _RimStrength: 0
+    - _RimWidth: 0.8
+    - _SSSDistortion: 0
+    - _SSSPower: 1
+    - _SSSSCale: 0
+    - _SSSThicknessMod: 0
+    - _SampleWorld: 0
+    - _ScrollingEmission: 0
+    - _ShadowMix: 0
+    - _ShadowMixThreshold: 0.5
+    - _ShadowMixWidthMod: 0.5
+    - _ShadowOffset: 0
+    - _ShadowStrength: 1
+    - _Smoothness: 0
+    - _SmoothnessFrom: 1
+    - _SmoothnessTextureChannel: 0
+    - _SourceBlend: 5
+    - _SpecularColorFrom: 0
+    - _SpecularHighlights: 1
+    - _SpecularSmoothness: 0
+    - _SpecularType: 0
+    - _SrcBlend: 1
+    - _StencilCompareFunction: 8
+    - _StencilFailOp: 0
+    - _StencilPassOp: 0
+    - _StencilReadMaskRef: 0
+    - _StencilRef: 0
+    - _StencilWriteMaskRef: 0
+    - _StencilZFailOp: 0
+    - _UVSec: 0
+    - _ZTest: 4
+    - _ZWrite: 1
+    - footer_discord: 0
+    - footer_donate: 0
+    - footer_github: 0
+    - footer_patreon: 0
+    - m_StencilPassOptions: 0
+    - m_emissionOptions: 0
+    - m_end_OutlineStencil: 0
+    - m_end_ShadowMix: 0
+    - m_end_blinkingEmissionOptions: 0
+    - m_end_lightingAdvanced: 0
+    - m_end_mainAdvanced: 0
+    - m_end_outlineAdvanced: 0
+    - m_end_scrollingEmissionOptions: 0
+    - m_fakeLightingOptions: 0
+    - m_funOptions: 0
+    - m_mainOptions: 0
+    - m_matcapOptions: 0
+    - m_metallicOptions: 0
+    - m_miscOptions: 0
+    - m_outlineOptions: 0
+    - m_rimLightOptions: 0
+    - m_specularHighlightsOptions: 0
+    - m_start_OutlineStencil: 0
+    - m_start_ShadowMix: 0
+    - m_start_blinkingEmissionOptions: 0
+    - m_start_lightingAdvanced: 0
+    - m_start_mainAdvanced: 0
+    - m_start_outlineAdvanced: 0
+    - m_start_scrollingEmissionOptions: 0
+    - m_subsurfaceOptions: 0
+    - shader_eable_poi_settings_selection: 0
+    - shader_is_using_thry_editor: 0
+    - shader_master_label: 0
+    - shader_presets: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 0.9274515, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionScrollSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissiveScroll_Direction: {r: 0, g: -10, b: 0, a: 0}
+    - _GlobalPanSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _LineColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MatcapColor: {r: 1, g: 1, b: 1, a: 1}
+    - _OutlineFadeDistance: {r: 0, g: 0, b: 0, a: 0}
+    - _OutlineGlobalPan: {r: 0, g: 0, b: 0, a: 0}
+    - _OutlineTexturePan: {r: 0, g: 0, b: 0, a: 0}
+    - _RimLightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimTexPanSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _SSSColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularTint: {r: 1, g: 1, b: 1, a: 1}

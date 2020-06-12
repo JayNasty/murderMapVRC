@@ -1,0 +1,360 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.262400)
+
+newmtl enduit_004_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl faience_013_Room_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd faience_013.jpg
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___base
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois.jpg
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___brosses_a_dent
+Kd 0.5058820247650146 0.7254899740219116 0.1960780024528503
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___dessus
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_alu2.jpg
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___eviers
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___material__73
+Kd 0.7333329916000366 0.274509996175766 0.4392159879207611
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___poignees
+Kd 0.8745099902153015 0.792156994342804 0.6862750053405762
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___poils_brosses
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___robinets
+Kd 0.5843139886856079 0.5843139886856079 0.5843139886856079
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___savon
+Kd 0.9254900217056274 0.9529410004615784 0.9215689897537231
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___serviette_001
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd moquette_003.jpg
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___serviette_002
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd moquette_007.jpg
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___tiroirs
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois.jpg
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___tubes_savon
+Kd 0.800000011920929 0.7960780262947083 0.7764710187911987
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_meuble_lavabo___verre
+Kd 0.8627449870109558 0.8392159938812256 0.7372549772262573
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl miroir_002___lambert4sg
+Kd 0.9568629860877991 0.7176470160484314 0.01568599976599216
+Ks 0.5 0.5 0.5
+d 1
+illum 1
+
+newmtl bleu_001
+Kd 0.9254902005195618 0.9529411792755127 0.9215686321258545
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl miroir_002___phong2sg
+Kd 1 1 1
+Ks 1 1 1
+d 1
+illum 1
+map_Kd tex_miroir.jpg
+
+newmtl beige_006_Wall_Entity_Material
+Kd 0.9098039269447327 0.9098039269447327 0.8784313797950745
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl enduit_004_Wall_Entity_Material
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd enduit_004.jpg
+
+newmtl bleu_010_Wall_Entity_Material
+Kd 0.7764706015586853 0.8901960849761963 0.9137254953384399
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl pack_002_sdb_porte_serviette_001___02___defaulta
+Kd 0.5843139886856079 0.5843139886856079 0.5843139886856079
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl bleu_004
+Kd 0.5568627715110779 0.6549019813537598 0.7764706015586853
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl blanc_001
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+
+newmtl pack_002_sdb_toilettes___01___defaulta
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_002_sdb_toilettes___01___defaulte
+Kd 0.4235289990901947 0.4235289990901947 0.4235289990901947
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_002_sdb_toilettes___01___defaultz
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois_marron_002.jpg
+
+newmtl pack_002_sdb_deroule_papier___01___defaulte
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_002_sdb_deroule_papier___01___defaultz
+Kd 0.4235289990901947 0.4235289990901947 0.4235289990901947
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_etagere_002___base
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois.jpg
+
+newmtl pack_003_salle_de_bain_etagere_002___bouchon_001
+Kd 0.7529410123825073 0.7058820128440857 0.6509799957275391
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_etagere_002___bouchon_002
+Kd 0.8745099902153015 0.792156994342804 0.6862750053405762
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_etagere_002___bouteille_001
+Kd 0.8627449870109558 0.8392159938812256 0.7372549772262573
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_etagere_002___bouteille_002
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_salle_de_bain_etagere_002___dessus
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_alu2.jpg
+
+newmtl pack_003_salle_de_bain_etagere_002___serviette_001
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd moquette_003.jpg
+
+newmtl pack_003_salle_de_bain_etagere_002___serviette_002
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd moquette_007.jpg
+
+newmtl pack_003_chambre_001_radiateur___barres_horizontales
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_chambre_001_radiateur___barres_verticales
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl pack_003_chambre_001_radiateur___tuyaux
+Kd 0.5843139886856079 0.5843139886856079 0.5843139886856079
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl armoire_toilette_004___metal_poignee
+Kd 0.5843139886856079 0.5843139886856079 0.5843139886856079
+Ks 0 0 0
+d 1
+Ns 0.699999988079071
+illum 2
+
+newmtl armoire_toilette_004___plastic_tiroirs
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl armoire_toilette_004___wood_meuble
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois.jpg
+
+newmtl tex_paravent
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd tex_paravent.jpg
+
+newmtl baignoire_002___chrome_robinets
+Kd 0.5843139886856079 0.5843139886856079 0.5843139886856079
+Ks 0.06300000101327896 0.06300000101327896 0.06300000101327896
+d 1
+Ns 7
+illum 2
+
+newmtl baignoire_002___email_baignoire
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl baignoire_002___metal_ornement
+Kd 0.7686269879341125 0.6235290169715881 0.207843005657196
+Ks 0.06300000101327896 0.06300000101327896 0.06300000101327896
+d 1
+Ns 7
+illum 2
+
+newmtl fenetre_025___mat_bois080sg
+Kd 0.5879999995231628 0.5879999995231628 0.5879999995231628
+Ks 0 0 0
+d 1
+illum 1
+
+newmtl fenetre_025___mat_metalorsg
+Kd 0.239999994635582 0.2300000041723251 0.07999999821186066
+Ks 0.5 0.5 0.5
+d 1
+Ns 1.482202053070068
+illum 2
+
+newmtl fenetre_025___mat_vitresg
+Kd 0.5879999995231628 0.5879999995231628 0.5879999995231628
+Ks 0 0 0
+d 0.2941179871559143
+illum 1
+
+newmtl pack_002_sdb_rideau___tissu_canape#1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_tissu2.jpg
+
+newmtl pack_002_sdb_rideau___wood_armoire
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Kd tex_bois_marron.jpg
+
+newmtl tex_tapis13
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 0.2000000029802322
+illum 2
+map_Kd tex_tapis13.jpg
+

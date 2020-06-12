@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: New Material 3_0
+  m_Shader: {fileID: 4800000, guid: 9195885cbfef91f47b8269e690c8a7cf, type: 3}
+  m_ShaderKeywords: BLUR_RGB CENTERING_BLUR_ON COLOR_GRADING_ON EDGEGLOW_ON GIRLSCAM_ON
+    HUE_OFF LINES_ON NOISE_ON SHOCKWAVE_ON VIGNETTE_ON WORLD_DISTORTION_ON ZOOM_SIMPLE
+    _VIGNETTECNTR_ON _WCNTR_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Blur: 6
+    - CENTERING_BLUR: 1
+    - COLOR_GRADING: 1
+    - COLSEL: 0
+    - EDGEGLOW: 1
+    - EDGYSPACE: 0
+    - GIRLSCAM: 1
+    - GLITCH: 0
+    - Hue: 0
+    - LINES: 1
+    - NOISE: 1
+    - PIX: 0
+    - RFOG: 0
+    - ROTATOR: 0
+    - SHAKE: 0
+    - SHOCKWAVE: 1
+    - STRIPES: 0
+    - SWIRL: 0
+    - UFPASS: 0
+    - Ufps: 0
+    - VIGNETTE: 1
+    - WAVES: 0
+    - WORLD_DISTORTION: 1
+    - ZOOM: 1
+    - _Alpha: 1
+    - _AmplitudeX: 5
+    - _AmplitudeY: 3
+    - _Amplitudefix: 1
+    - _BRoffset: 0
+    - _BRspeed: 0
+    - _BumpScale: 1
+    - _Colsela: 1
+    - _Contrast: 0.087
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _Dir: 0.3
+    - _DstBlend: 0
+    - _Fog: 0.078
+    - _Girlscam: 0
+    - _Girlscamcount: 0.362
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HDR: 0.609
+    - _HDRMultiplyer: 1.2
+    - _HUE: 0
+    - _HUESpeed: 0.3
+    - _HUEa: 0
+    - _HueRange: 0.1
+    - _HueSmoothRange: 0.1
+    - _LightnessRange: 0.5
+    - _LightnessSmoothRange: 0.5
+    - _Metallic: 0
+    - _Mode: 0
+    - _Moving: 0
+    - _Noise: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SaturationRange: 0.5
+    - _SaturationSmoothRange: 0.5
+    - _Smooth: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _Speedvg: 3.29
+    - _SrcBlend: 1
+    - _Threshold: 0.3
+    - _TileHue: 1
+    - _TillingX: 0.1
+    - _TillingY: 0.5
+    - _UVSec: 0
+    - _Usernd: 0
+    - _Vignette: 0.107
+    - _Vignettecntr: 1
+    - _Vignettesmtf: 0.771
+    - _Waves: 0
+    - _WavesPower: 1
+    - _WavesSpeed: 0
+    - _ZWrite: 1
+    - _Zoom: 0
+    - _bars: 18.3
+    - _ds: 0
+    - _dspeed: 0.27
+    - _egoffset: 0
+    - _egpow: 20
+    - _egspcol: 0
+    - _egspoffset: 5
+    - _falloff: 34.9
+    - _fe: 100
+    - _fs: 99
+    - _gAmt: 50
+    - _gOffsetx: 50
+    - _gOffsety: 0
+    - _gSpeed: 30
+    - _gcOffset: 20
+    - _grsc: 0
+    - _lines: 0.604
+    - _linescount: 38
+    - _linesspeed: 0.349
+    - _nmapscale: 0.208
+    - _nmaptile: 0.8
+    - _nspeed: 1
+    - _pix: 0
+    - _rotamp: 0
+    - _rotcntr: 0
+    - _rotoffset: 0
+    - _rotspeed: 0
+    - _samples: 33
+    - _sangle: 6.6
+    - _smb: 0
+    - _softness: 1
+    - _srad: 26.2
+    - _sspeed: 0
+    - _stripes: 0.104
+    - _stripescount: 88.8
+    - _stripesspeed: 0.622
+    - _threshold: 1
+    - _usen: 0
+    - _volume: 0
+    - _wcntr: 1
+    - _woffset: 0
+    - _wpower: 0
+    - _wspeed: 0
+    - _wx: 10
+    - _wy: 0.8
+    - _wz: 0.1
+    - _xsp: 53
+    - _ysp: 75
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorL: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorR: {r: 0, g: 0.04827571, b: 1, a: 1}
+    - _Colorm: {r: 0.625, g: 0.6741379, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FogColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TargetColor: {r: 0, g: 0.4, b: 1, a: 1}
+    - _brightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _darkColor: {r: 0, g: 0, b: 0, a: 0}
+    - _egcol: {r: 0, g: 0.4, b: 1, a: 1}
+    - _ncol: {r: 0, g: 1, b: 0.213793, a: 1}

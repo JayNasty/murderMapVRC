@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: c1010_t01_hair01_low 3
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _LIT
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AvatarsLightmap:
+        m_Texture: {fileID: 2800000, guid: cf16ea420240e3744b1dfe79e8ce3cc4, type: 3}
+        m_Scale: {x: 6.91, y: -6.29}
+        m_Offset: {x: 0, y: 0}
+    - _AvatarsNormal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AvatarsOriginalTexture:
+        m_Texture: {fileID: 2800000, guid: 5eeebe79b614d1a4ab1f9bb102c93920, type: 3}
+        m_Scale: {x: 0.53, y: -0.86}
+        m_Offset: {x: 1, y: -1.4}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EffectBlackMatteImage:
+        m_Texture: {fileID: 2800000, guid: d67d4be1d6c90f64791b9a0ca9090fba, type: 3}
+        m_Scale: {x: 5.93, y: 2.21}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LightingGradient:
+        m_Texture: {fileID: 2800000, guid: c8ee94f0168b75440ae490f72fd4dcf4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RimTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AvatarsSmoothness: 0.571
+    - _BumpScale: 1
+    - _Clip: 0.5
+    - _CrossfadeSurfaceOverlay: 1
+    - _CrossfadeTileCubemap: 0
+    - _Cull: 0
+    - _Cutoff: 0.5
+    - _Desaturation: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _DynamicToonLighting: 0
+    - _EffectSpeed: -1.36
+    - _EffectStereoDepth: -0.734
+    - _Emission: 0
+    - _EmissionStrength: 0
+    - _EmissiveBlink_Max: 1
+    - _EmissiveBlink_Min: 1
+    - _EmissiveBlink_Velocity: 4
+    - _EmissiveScroll_Interval: 20
+    - _EmissiveScroll_Velocity: 10
+    - _EmissiveScroll_Width: 10
+    - _Gloss: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HARD_SPECULAR: 0
+    - _Intensity: 1
+    - _Lit: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoLightShading: 0
+    - _NormalIntensity: 1
+    - _OcclusionStrength: 1
+    - _Outline: 0
+    - _OutlineMode: 0
+    - _OutlineWidth: 0
+    - _Parallax: 0.02
+    - _RainbowMSpeedHorizontal: 0
+    - _RainbowMSpeedVertical: 0
+    - _RimLightColorBias: 0
+    - _RimSharpness: 0.25
+    - _RimStrength: 0
+    - _RimWidth: 0.8
+    - _SCROLLING_EMISSION: 0
+    - _Saturation: 1
+    - _SaturationOutline: 1
+    - _ScreenSpaceOutline: 0
+    - _Shadow: 0.4
+    - _ShadowOffset: 0
+    - _ShadowStrength: 0.25
+    - _SmoothnessTextureChannel: 0
+    - _SpecularBias: 0
+    - _SpecularHighlights: 1
+    - _SpecularSize: 0.005
+    - _SpecularStrength: 0
+    - _SpeedHorizontal: 0
+    - _SpeedVertical: 0
+    - _SrcBlend: 1
+    - _TileSpeedX: 0
+    - _TileSpeedY: 0
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _outline_tint: 0.5
+    - _outline_width: 0.2
+    m_Colors:
+    - _AvatarsHueAdjust: {r: 0.9926471, g: 0.9926471, b: 0.9926471, a: 1}
+    - _AvatarsSpecular: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EffectHueAdjust: {r: 1, g: 0.4485294, b: 0.8250508, a: 0.903}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissiveScroll_Direction: {r: 0, g: -10, b: 0, a: 0}
+    - _LightDirection: {r: 0, g: 1, b: 0, a: 0}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RimLightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimTexPanSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _StaticToonLight: {r: 0, g: 0, b: 0, a: 0}
+    - _outline_color: {r: 0.5, g: 0.5, b: 0.5, a: 1}

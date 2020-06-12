@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/workingpkg.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/roomPkg.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/avi.unity
+  isLoaded: 1
+  isActive: 0

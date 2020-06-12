@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: Tail
+  m_Shader: {fileID: 4800000, guid: 847626842fbec3147a303834f56dd51c, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _HeightMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: c0a5608fd87428444ba5a91b54fe7c4b, type: 3}
+        m_Scale: {x: 1, y: 1.07}
+        m_Offset: {x: 0, y: 0}
+    - _SkinTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AOStrength: 1
+    - _AddMatcap: 0
+    - _AdditiveOffset: 0
+    - _AdditiveSoftness: 0.25
+    - _AoRampMax: 1
+    - _AoRampMin: 0
+    - _AttenuationMultiplier: 0
+    - _AutoBlend: 0
+    - _AutoBlendDelay: 2
+    - _AutoBlendSpeed: 2
+    - _Blend: 1
+    - _BlendAlpha: 0.902
+    - _Brightness: 0.457
+    - _BumpScale: 1
+    - _Clip: 0
+    - _Cull: 0
+    - _CullAngle: 0
+    - _CullVelocity: 0
+    - _Cutoff: 0.5
+    - _DestinationBlend: 10
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EmissionStrength: 0.35
+    - _EmissiveBlink_Max: 1.5
+    - _EmissiveBlink_Min: 1
+    - _EmissiveBlink_Velocity: 1.2
+    - _EmissiveScroll_Interval: 1
+    - _EmissiveScroll_Velocity: 1
+    - _EmissiveScroll_Width: 1
+    - _EnableSkin: 0
+    - _FlipbookColumns: 10
+    - _FlipbookCurrentFrame: -1
+    - _FlipbookEmissionStrength: 0.76
+    - _FlipbookFPS: 30
+    - _FlipbookRotation: 0
+    - _FlipbookRows: 15
+    - _FlipbookTotalFrames: 141
+    - _FurAO: 0.55
+    - _FurDebug: 0
+    - _FurGravityStrength: 0.4
+    - _FurHeightMapMax: 0.925
+    - _FurHeightMapMin: 0
+    - _FurLayers: 10
+    - _FurLength: 0.01
+    - _FurMaxDistance: 10
+    - _FurMinDistance: 2
+    - _FurStiff: 1
+    - _FurTransparency: 0.956
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HeightMapBrightness: 0.054
+    - _IndirectContribution: 0
+    - _InvertSmoothness: 0
+    - _LightingType: 0
+    - _MatcapBrightness: 1
+    - _MaxBrightness: 1
+    - _Metallic: 1
+    - _MinBrightness: 0
+    - _Mirror: 0
+    - _Mode: 0
+    - _MultiplyMatcap: 1
+    - _OcclusionStrength: 1
+    - _PanoBlend: 1
+    - _PanoEmission: 0
+    - _Parallax: 0.02
+    - _PurelyAdditive: 1
+    - _ReplaceWithMatcap: 0
+    - _RimLightColorBias: 0
+    - _RimSharpness: 0
+    - _RimStrength: 0
+    - _RimWidth: 0
+    - _SSSDistortion: 1
+    - _SSSPower: 4.8
+    - _SSSSCale: 1
+    - _SSSThicknessMod: -0.606
+    - _SampleWorld: 0
+    - _Saturation: 0
+    - _ScrollingEmission: 0
+    - _ShadowMix: 0
+    - _ShadowMixThreshold: 0.5
+    - _ShadowMixWidthMod: 0.5
+    - _ShadowOffset: 0
+    - _ShadowStrength: 0.101
+    - _Shadows: 2
+    - _SkinBrightness: 0.072
+    - _SkinTransparency: 0.904
+    - _Smoothness: 1
+    - _SmoothnessFrom: 1
+    - _SmoothnessTextureChannel: 0
+    - _SourceBlend: 5
+    - _SpecularColorFrom: 0
+    - _SpecularHighlights: 1
+    - _SpecularSmoothness: 0
+    - _SpecularType: 0
+    - _SrcBlend: 1
+    - _StencilCompareFunction: 8
+    - _StencilFailOp: 0
+    - _StencilPassOp: 2
+    - _StencilRef: 10
+    - _StencilZFailOp: 0
+    - _UVSec: 0
+    - _WindSpeed: 0
+    - _WindStrength: 0.448
+    - _ZTest: 4
+    - _ZWrite: 1
+    - footer_discord: 0
+    - footer_donate: 0
+    - footer_github: 0
+    - footer_patreon: 0
+    - m_StencilPassOptions: 0
+    - m_emissionOptions: 1
+    - m_end_ShadowMix: 0
+    - m_end_blinkingEmissionOptions: 0
+    - m_end_furAdvanced: 0
+    - m_end_lightingAdvanced: 0
+    - m_end_mainAdvanced: 0
+    - m_end_manualFlipbookControl: 0
+    - m_end_scrollingEmissionOptions: 0
+    - m_fakeLightingOptions: 1
+    - m_flipBook: 0
+    - m_funOptions: 0
+    - m_furOptions: 1
+    - m_mainOptions: 1
+    - m_matcapOptions: 0
+    - m_metallicOptions: 0
+    - m_miscOptions: 1
+    - m_panosphereOptions: 1
+    - m_rimLightOptions: 1
+    - m_specularHighlightsOptions: 0
+    - m_start_ShadowMix: 0
+    - m_start_blinkingEmissionOptions: 1
+    - m_start_furAdvanced: 1
+    - m_start_lightingAdvanced: 1
+    - m_start_mainAdvanced: 0
+    - m_start_manualFlipbookControl: 0
+    - m_start_scrollingEmissionOptions: 0
+    - m_subsurfaceOptions: 0
+    - m_textureBlending: 0
+    - shader_eable_poi_settings_selection: 0
+    - shader_is_using_thry_editor: 69.12
+    - shader_master_label: 0
+    - shader_presets: 0
+    m_Colors:
+    - _BlendTextureColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0.3965515, g: 0.375, b: 1, a: 1}
+    - _EmissionPan: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissiveScroll_Direction: {r: 0, g: 50, b: 0, a: 0}
+    - _FlipbookColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FlipbookScaleOffset: {r: 0.175, g: 0.175, b: 0.1, a: 0}
+    - _FurColor: {r: 0.5641685, g: 0.004205887, b: 0.572, a: 1}
+    - _GlobalPanSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _Gravity: {r: 0, g: -1, b: 0, a: 0}
+    - _MatcapColor: {r: 1, g: 1, b: 1, a: 1}
+    - _PanosphereColor: {r: 1, g: 1, b: 1, a: 1}
+    - _PanosphereScroll: {r: 0.01, g: 0, b: 0, a: 0}
+    - _RimLightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimTexPanSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _SSSColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SkinColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularTint: {r: 0.2794118, g: 0.2794118, b: 0.2794118, a: 1}
+    - _Velocity: {r: 0, g: 0, b: 0, a: 0}
