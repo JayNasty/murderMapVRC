@@ -1,5 +1,0 @@
-<linker>
-    <!-- whitelist all VRChat assemblies -->
-    <assembly fullname="VRCCore-Standalone" preserve="all" />
-    <assembly fullname="VRCSDK2" preserve="all" />
-</linker>
